@@ -16,6 +16,8 @@ This project aims to provide a backend for a typical e-commerce website, complet
 
 * [Usage](#usage)
 
+* [Walkthrough Video](#walkthrough-video)
+
 * [License](#license)
 
 * [GitHub Repository](#github-repository)
@@ -61,13 +63,18 @@ No self-tests exist for this application.
 
 
 ## Usage
-To use this project, simply use the command: 
+To use this project, you must create the database using your SQL login, then use the commands: 
 
 ```
+npm run seed
 npm run start 
 ```
 
 in the root directory and then navigate to insomnia or a similar program and connect to the application.
+
+## Walkthrough Video
+
+You can find a walkthrough video [here.](https://drive.google.com/file/d/1gYzkMDXdajhK7C7QV_PyyDE3I0mwVqIM/view?usp=sharing)
 
 ## GitHub repository
 You can find the GitHub repository [here.](https://github.com/JakebJackson/JakeJackson-Ecommerce-Backend)
@@ -82,4 +89,4 @@ This project is licenced under the MIT licence.
 If you have any questions or concerns, please open an issue and I will do my best to get back to you. You can view my other work on GitHub: [JakebJackson](https://github.com/JakebJackson/).
 
 ## Credits
-Monah University Full-Stack Web Development Bootcamp
+Monah University Full-Stack Web Development Bootcamp.
